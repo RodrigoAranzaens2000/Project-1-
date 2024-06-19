@@ -1,4 +1,4 @@
-# Store 1 - Proyecto de Análisis de Datos de Comercio Electrónico
+# Proyecto 1 - Proyecto de Análisis de Datos de Comercio Electrónico
 
 Store 1 es una empresa de comercio electrónico que ha comenzado recientemente a recopilar datos sobre sus clientes. El objetivo final de Store 1 es comprender mejor el comportamiento de los clientes y tomar decisiones basadas en datos para mejorar su experiencia en línea.
 
